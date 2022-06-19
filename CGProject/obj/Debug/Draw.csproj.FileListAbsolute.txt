@@ -1,0 +1,22 @@
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\janku\source\repos\Компютерна графика\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Workspace\CGProject\bin\Debug\Draw.exe
+C:\Workspace\CGProject\bin\Debug\Draw.pdb
+C:\Workspace\CGProject\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Workspace\CGProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Workspace\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Workspace\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Workspace\CGProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Workspace\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Workspace\CGProject\obj\Debug\Draw.exe
+C:\Workspace\CGProject\obj\Debug\Draw.pdb
+C:\Workspace\CGProject\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CGProject\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\CGProject\obj\Debug\Draw.csproj.CopyComplete
